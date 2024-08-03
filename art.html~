@@ -1,0 +1,492 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Shintaro - Art</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta property="og:title" content="Shintaro Fushida-Hardy - Art">
+<meta property="og:description" content="Visit the Gallery of the Finite here!">
+<meta property="og:image" content="http://stanford.edu/~sfh/fruity.png">
+<meta property="og:url" content="http://stanford.edu/~sfh/art.htm">
+
+<meta name="twitter:title" content="Shintaro Fushida-Hardy - Art">
+<meta name="twitter:description" content="Visit the Gallery of the Finite here!">
+<meta name="twitter:image" content="http://stanford.edu/~sfh/fruity.png">
+<meta name="twitter:card" content="http://stanford.edu/~sfh/art.htm">
+
+<link rel="stylesheet" href="art.css">
+
+</head>
+<body>
+
+<div class="header">
+  <img src="wordart1.png" style="height:100px" class="center">
+  <h1>Shintaro Fushida-Hardy</h1>
+</div> 
+
+<div class="navbar">
+  <a href="./">Home</a>
+  <a href="art.html" class="right">Art</a>
+  <a href="baking.html" class="right">Baking</a>
+  <a href="cv.html" class="right">CV</a>
+  <a href="teach.html" class="right">Teaching</a>
+  <a href="math.html" class="right">Mathematics</a>
+</div>
+
+<div class="container">
+  <div class="leftside">
+  	<img src="profile3.png" alt="photo of myself" style="width:100%">
+   <table style="width:100%">
+  <tr>
+    <th>Office:</th>
+    <td>Sloan Hall, 381B</td>
+  </tr>
+  <tr>
+    <th>Email:</th>
+    <td><a href="mailto:sfh@stanford.edu" title="send me an email!">sfh@stanford.edu</a></td>
+
+  </trsignal-2022-01-25-130523_001>
+  </table>
+
+  </div>
+   <div class="main">
+  <h2>Non-planar art</h2>
+  <p>This is a collection of sculptures I've created. I started out crocheting mathsy objects, but have since expanded to other textiles, woodworking, metalworking (both hot and cold), moldmaking+casting, ceramics etc. Many of my more involved artworks typically have a social or interactive component. Hover over photos for a description and click to expand.</p>
+</div>
+
+<div class="rightbox">
+
+<!-- The four columns -->
+
+<div class="row">
+	<div class="column">
+		<a href="#chain">
+			<img src="chain.jpg" title="'Untitled'. Resin, PLA, silicone. A factory of sorts for casting indefinitely long chains with minimal imperfections." alt="<i>Untitled</i>. An image of a mold and cast set up to make indefinitely long resin chains." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#paint">
+			<img src="paint.jpg" title="'Untitled'. Wax. Casts of a paint tube." alt="<i>Untitled</i>. Six casts of a paint tube." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#creatures">
+			<img src="creatures.jpg" title="'Untitled'. Wax, plaster. Casts of abstract paint tubes." alt="<i>Untitled</i>. Three casts of abstract paint tubes, like peeling bananas, or squid." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#foot">
+			<img src="foot.jpg" title="'Untitled'. Plaster. A cast of my feet with interlocking toes" alt="<i>Untitled</i>. A cast of my feet with interlocking toes." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#shrine1">
+			<img src="shrine1.jpg" title="'Shrine to Relationships'. Redwood, pine, manila rope, paper. A shrine inspired by Shinto with a wooden frame and draped rope." alt="<i>Shrine to Relationships</i>. A photo of me sneaking out of the piece." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#shrine2">
+			<img src="shrine2.jpg" title="'Shrine to Relationships'. Redwood, pine, manila rope, paper. A shrine inspired by Shinto with a wooden frame and draped rope." alt="<i>Shrine to Relationships</i>. A front view of the whole piece." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#shrine3">
+			<img src="shrine3.jpg" title="'Shrine to Relationships'. Redwood, pine, Manila rope, paper. A shrine inspired by Shinto with a wooden frame and draped rope." alt="<i>Untitled</i>. A zoomed in view of the joinery involved in the piece." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#splash">
+			<img src="splash.jpg" title="'Untitled'. Plaster and paint. A relief sculpture created by forcefully splashing water onto setting plaster." alt="<i>Untitled</i>. A relief sculpture created by splashing water onto setting plaster, painted yellow." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#latchhook">
+			<img src="latchhook.jpg" title="'Untitled'. Yarn, rug canvas. A latch hook rug in which I've reversed the roles of yarn and canvas." alt="<i>Untitled</i>. A latch hook rug in which I've reversed the roles of yarn and canvas---the yarn forms the base, and the rug canvas is cut up into pieces which form the rug fibres." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#clock1">
+			<img src="clock1.jpg" title="'Hyperbolic clock'. Fabric scraps. A hyperbolically quilted working clock." alt="<i>Hyperbolic clock</i>. A hyperbolically quilted working clock. Designed to stretch and abstract our understanding of what a clock is." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#clock2">
+			<img src="clock2.jpg" title="'Hyperbolic clock'. Fabric scraps. A hyperbolically quilted working clock." alt="<i>Hyperbolic clock</i>. This image depicts the backside of the piece, which shows the clock mechanism and more clearly shows the hyperbolic nature of the clock." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+<div class="column">
+		<a href="#dimensionality">
+			<img src="dimensionality.jpg" title="'Dimensionality'. Wood, pipe, canvas, etc. A piece exploring unexpected dimensions for various materials." alt="<i>Dimensionality</i>. A piece exploring unexpected dimensions for various materials---such as using canvas one-dimensionally, and using pipes two-dimensionally." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#merge1">
+			<img src="merge1.jpeg" title="'Equip and Merge'. Steel rod and canvas. An interactive piece exploring relationships with space and tension." alt="<i>Equip and Merge</i>. A somewhat large sculpture consisting of metal frames and stretched canvas." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#merge2">
+			<img src="merge2.jpeg" title="'Equip and Merge'. Steel rod and canvas. Random people engaging with it at an exhibition!" alt="<i>Equip and Merge</i>. A photo of audience members engaging with the sculpture at an exhibition." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#drums">
+			<img src="drums.jpeg" title="'Untitled'. Various materials. Three drums of increasing abstraction." alt="<i>Untitled</i>. Three drums of increasing abstraction. Designed to explore implied permissions of a space." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+
+	<div class="column">
+		<a href="#vision_swap">
+			<img src="vision_swap.jpeg" title="'Untitled'. Cardboard headsets to allow two users to effortlessly swap their vision (via Zoom)." alt="<i>Untitled</i>. Photo of people using my headsets to swap their sense of vision." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+
+	<div class="column">
+		<a href="#flowermountain">
+			<img src="flowermountain.jpeg" title="'Flowermountain'. Douglas fir. A tribute to the puzzle company HANAYAMA" alt="<i>Flowermountain</i>. A sculpture consisting of about 150 'puzzle pieces' made from kamaboko boards." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#entwinedexperience">
+			<img src="entwinedexperience.jpeg" title="'Entwined Experience'. Douglas fir on plywood. Front view reveals Mt Manaia, side view reveals Mt Kuju." alt="<i>Entwined Experience</i>. A sculpture consisting of about 200 kamaboko boards glued onto a sheet of plywood." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#californiacake">
+			<img src="californiacake.jpeg" title="'California Cake'. Douglas fir on plywood table. Kamaboko molded from kamaboko board saw dust." alt="<i>California Cake</i>. A sculpture of six pieces of kamaboko on a low table." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+
+	<div class="column">
+		<a href="#hydrant">
+			<img src="union.jpeg" title="'Union'. Welded steel rod and sheetmetal" alt="<i>Union</i>. Welded steel rod and sheetmetal forming a U shaped fire hydrant." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+
+	<div class="column">
+		<a href="#star">
+			<img src="tetra5.jpeg" title="Folded by everyone in my class I taught in Summer 2021" alt="Five intersecting tetrahedra origami, folded by everyone in my class I taught in Summer 2021." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+
+  <div class="column">
+	  <a href="#jref">
+		  <img src="grorf.png" title="Giraffe made from packing peanuts and hot glue" alt="Giraffe made from packing peanuts and hot glue" style="width:100%" onclick="myFunction(this);">
+	</a>
+  </div>
+  <div class="column">
+    <a href="#cccbbb">
+  <img src="cccardboarddd.jpeg" title="Cardardardboarboarboard" alt="Cardardardboarboarboard" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+
+<div class="column">
+    <a href="#klein1">
+  <img src="kleinquartic1.jpg" title="One view of a crocheted Klein quartic" alt="A certain view of a crocheted Klein quartic" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+<div class="column">
+    <a href="#klein2">
+  <img src="kleinquartic2.jpg" title="Rare image of the crocheted Klein quartic under construction" alt="Rare image of the crocheted Klein quartic still under construction" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+
+  <div class="column">
+    <a href="#linktref">
+  <img src="linkedtrefoils.jpg" title="Carpet of trefoil knots linked together" alt="Carpet of trefoil knots linked together" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+<div class="column">
+    <a href="#stella">
+  <img src="stellation.jpg" title="Origami stellated rhombicuboctahedron" alt="Origami stellated rhombicuboctahedron" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+<div class="column">
+    <a href="#delta">
+  <img src="deltahedra.jpg" title="The 8 convex deltahedra" alt="The 8 convex deltahedra" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+<div class="column">
+    <a href="#interlock">
+  <img src="interlocky.jpg" title="5 interlocking tetrahedra" alt="5 interlocking tetrahedra" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#cro1">
+  <img src="hyper.jpg" title="Hyperbolic surface" alt="Hyperbolic surface" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#cro2">
+    <img src="borro.jpg" title="Borromean rings" alt="Borromean rings" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#cro3">
+    <img src="seifert.jpg" title="Seifert surface of a trefoil knot" alt="Seifert surface of a trefoil knot" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#cro4">
+    <img src="mobius.jpg" title="Möbius strip" alt="Möbius strip" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#cro5">
+    <img src="fig8.jpg" title="Figure 8 knot" alt="Figure 8 knot" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#trongle">
+  <img src="trongle.jpg" title="Triangles?? What are they for?" alt="Triangles?? What are they for?" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+
+</div>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="chain">
+  <img src="chain.jpg">
+</a>
+<a href="#_" class="lightbox" id="clock1">
+  <img src="clock1.jpg">
+</a>
+<a href="#_" class="lightbox" id="clock2">
+  <img src="clock2.jpg">
+</a>
+<a href="#_" class="lightbox" id="creatures">
+  <img src="creatures.jpg">
+</a>
+<a href="#_" class="lightbox" id="dimensionality">
+  <img src="dimensionality.jpg">
+</a>
+<a href="#_" class="lightbox" id="foot">
+  <img src="foot.jpg">
+</a>
+<a href="#_" class="lightbox" id="latchhook">
+  <img src="latchhook.jpg">
+</a>
+<a href="#_" class="lightbox" id="paint">
+  <img src="paint.jpg">
+</a>
+<a href="#_" class="lightbox" id="shrine1">
+  <img src="shrine1.jpg">
+</a>
+<a href="#_" class="lightbox" id="shrine2">
+  <img src="shrine2.jpg">
+</a>
+<a href="#_" class="lightbox" id="shrine3">
+  <img src="shrine3.jpg">
+</a>
+<a href="#_" class="lightbox" id="splash">
+  <img src="splash.jpg">
+</a>
+
+<a href="#_" class="lightbox" id="merge1">
+  <img src="merge1.jpeg">
+</a>
+<a href="#_" class="lightbox" id="merge2">
+  <img src="merge2.jpeg">
+</a>
+<a href="#_" class="lightbox" id="drums">
+  <img src="drums.jpeg">
+</a>
+<a href="#_" class="lightbox" id="vision_swap">
+  <img src="vision_swap.jpeg">
+</a>
+<a href="#_" class="lightbox" id="flowermountain">
+  <img src="flowermountain.jpeg">
+</a>
+<a href="#_" class="lightbox" id="entwinedexperience">
+  <img src="entwinedexperience.jpeg">
+</a>
+<a href="#_" class="lightbox" id="californiacake">
+  <img src="californiacake.jpeg">
+</a>
+<a href="#_" class="lightbox" id="hydrant">
+  <img src="union.jpeg">
+</a>
+<a href="#_" class="lightbox" id="star">
+  <img src="tetra5.jpeg">
+</a>
+<a href="#_" class="lightbox" id="jref">
+  <img src="grorf.png">
+</a>
+<a href="#_" class="lightbox" id="cccbbb">
+  <img src="cccardboarddd.jpeg">
+</a>
+<a href="#_" class="lightbox" id="klein1">
+  <img src="kleinquartic1.jpg">
+</a>
+<a href="#_" class="lightbox" id="klein2">
+  <img src="kleinquartic2.jpg">
+</a>
+<a href="#_" class="lightbox" id="linktref">
+  <img src="linkedtrefoils.jpg">
+</a>
+<a href="#_" class="lightbox" id="stella">
+  <img src="stellation.jpg">
+</a>
+<a href="#_" class="lightbox" id="delta">
+  <img src="deltahedra.jpg">
+</a>
+<a href="#_" class="lightbox" id="interlock">
+  <img src="interlocky.jpg">
+</a>
+<a href="#_" class="lightbox" id="cro1">
+  <img src="hyper.jpg">
+</a>
+<a href="#_" class="lightbox" id="cro2">
+  <img src="borro.jpg">
+</a>
+<a href="#_" class="lightbox" id="cro3">
+  <img src="seifert.jpg">
+</a>
+<a href="#_" class="lightbox" id="cro4">
+  <img src="mobius.jpg">
+</a>
+<a href="#_" class="lightbox" id="cro5">
+  <img src="fig8.jpg">
+</a>
+<a href="#_" class="lightbox" id="trongle">
+  <img src="trongle.jpg">
+</a>
+
+</div>
+ <div class="main">
+  <h2>Coding art?</h2>
+  <p>I wrote a programme for converting grid diagrams of knots/links into artworks in the style of Mondrian. You can generate your own from my <a href="https://github.com/sfushidahardy/grid_to_mondrian">github page</a>. Here are two example outputs - namely for the trefoil knot and 6_1 ribbon knot.</p>
+  </div>
+  <div class="rightbox">
+<div class="row">
+	<div class="column">
+		<a href="#3_1_mondrian">
+			<img src="3_1.png" title="A code-generated Mondrian of the trefoil knot" alt="Image of a code-generated trefoil knot in the style of Mondrian." style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+	<div class="column">
+		<a href="#6_1_mondrian">
+			<img src="6_1.png" title="A code-generated Mondrian of the 6_1 ribbon knot" alt="Image of a code-generated 6_1 knot in the style of Mondrian." style="width:100%" onclick="myFunction(this);">
+
+		</a>
+	</div>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="3_1_mondrian">
+  <img src="3_1.png">
+</a>
+<a href="#_" class="lightbox" id="6_1_mondrian">
+  <img src="6_1.png">
+</a>
+
+</div>
+</div>
+
+  <div class="main">
+  <h2>Planar art</h2>
+  <p>Hover over photos for a description and click to expand.</p>
+  </div>
+
+<div class="rightbox">
+
+<!-- The four columns -->
+<div class="row">
+<div class="column">
+	<a href="#bucky">
+		<img src="buckbuck.png" title="The rebirth of Bucky. (Fanart for Bucky, a character in the manga Chainsaw Man.)" alt="Fanart for Bucky, a character in the manga Chainsaw Man. Digitally drawn, monochrome lineart." style="width:100%" onclick="myFunction(this);">
+	</a>
+</div>
+<div class="column">
+		<a href="#tri">
+			<img src="triangle.jpg" title="An impossible triangle" alt="An impossible triangle of cubes floating in the sky" style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+
+	<div class="column">
+		<a href="#mond">
+			<img src="mondrian.jpg" title="Whitehead link in the style of Mondrian" alt="Whitehead link in the style of Mondrian" style="width:100%" onclick="myFunction(this);">
+		</a>
+	</div>
+  <div class="column">
+    <a href="#img1">
+  <img src="coffee.jpg" title="Coffee painting" alt="Coffee painting" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#img2">
+    <img src="membox.png" title="Mem Box" alt="Mem box" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#img3">
+    <img src="gallery.jpg" title="A photo of me at an art gallery" alt="A photo of me at an art gallery" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#img4">
+    <img src="fibonaccifoodchain.jpg" title="Fibonacci Foodchain" alt="Fibonacci Foodchain" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#img5">
+    <img src="ductilecondensation.jpg" title="Ductile Condensation" alt="Ductile Condensation" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#img6">
+    <img src="fruity.png" title="Fruity" alt="Fruity" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+  <div class="column">
+    <a href="#map">
+  <img src="map.jpg" title="Map of the tribes and nations of western USA" alt="Map of the tribes and nations of western USA" style="width:100%" onclick="myFunction(this);">
+  </a>
+  </div>
+
+</div>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="tri">
+	<img src="triangle.jpg">
+</a>
+<a href="#_" class="lightbox" id="bucky">
+	<img src="buckbuck.png">
+</a>
+<a href="#_" class="lightbox" id="mond">
+	<img src="mondrian.jpg">
+</a>
+<a href="#_" class="lightbox" id="img1">
+  <img src="coffee.jpg">
+</a>
+<a href="#_" class="lightbox" id="img2">
+  <img src="membox.png">
+</a>
+<a href="#_" class="lightbox" id="img3">
+  <img src="gallery.jpg">
+</a>
+<a href="#_" class="lightbox" id="img4">
+  <img src="fibonaccifoodchain.jpg">
+</a>
+<a href="#_" class="lightbox" id="img5">
+  <img src="ductilecondensation.jpg">
+</a>
+<a href="#_" class="lightbox" id="img6"v>
+  <img src="fruity.png">
+</a>
+<a href="#_" class="lightbox" id="map"v>
+  <img src="map.jpg">
+</a>
+
+</div>
+</div>
+
+ <div class="minifooter">
+  <a target="_blank" title="follow me on Twitter" href="https://www.twitter.com/FushidaHardy"><img alt="follow me on twitter" src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter40x40.png" border=0 hspace="10"></a>
+  <a target="_blank" title="find me on StackExchange" href="https://math.stackexchange.com/users/357206/harambe?tab=profile"><img alt="find me on StackExchange" src="mse.png" border=0 hspace="10"></a>
+  <a target="_blank" title="follow me on Instagram" href="https://www.instagram.com/fishintaro/"><img alt="follow me on Instagram" src="insta.png" border=0 hspace="10"></a>
+</div> 
+<div class="footer"><p>Updated 7 Dec 2023</p></div>
+
+</body>
+</html>

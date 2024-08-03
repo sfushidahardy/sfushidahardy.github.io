@@ -1,0 +1,149 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Shintaro - Maths</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta property="og:title" content="Shintaro Fushida-Hardy - Maths">
+<meta property="og:description" content="Click here to see if I'm being productive!">
+<meta property="og:image" content="http://stanford.edu/~sfh/fruity.png">
+<meta property="og:url" content="http://stanford.edu/~sfh/math.htm">
+
+<meta name="twitter:title" content="Shintaro Fushida-Hardy - Maths">
+<meta name="twitter:description" content="Click here to see if I'm being productive!">
+<meta name="twitter:image" content="http://stanford.edu/~sfh/fruity.png">
+<meta name="twitter:card" content="http://stanford.edu/~sfh/math.htm">
+
+<link rel="stylesheet" href="index.css">
+
+</head>
+<body>
+
+<div class="header">
+  <img src="wordart1.png" style="height:100px" class="center">
+  <h1>Shintaro Fushida-Hardy</h1>
+</div> 
+
+<div class="navbar">
+  <a href="./">Home</a>
+  <a href="art.html" class="right">Art</a>
+  <a href="baking.html" class="right">Baking</a>
+  <a href="cv.html" class="right">CV</a>
+  <a href="teach.html" class="right">Teaching</a>
+  <a href="math.html" class="right">Mathematics</a>
+</div>
+
+<div class="container">
+  <div class="leftside">
+  	<img src="profile3.png" alt="photo of myself" style="width:100%">
+   <table style="width:100%">
+  <tr>
+    <th>Office:</th>
+    <td>Sloan Hall, 381B</td>
+  </tr>
+  <tr>
+    <th>Email:</th>
+    <td><a href="mailto:sfh@stanford.edu" title="send me an email!">sfh@stanford.edu</a></td>
+
+  </tr>
+  </table>
+
+  </div>
+  <div class="main">
+  	<h2>Research and papers</h2>
+	<p>3. Pseudo-trisections of 4-manifolds with boundary <i>In preparation.</i>
+	<p>2. Linear algebra activities designed for student engagement <i>PRIMUS, Accepted for publication.</i>
+	<p>1. <a href="kleinpaper.pdf" target="_self">Crocheting an Isomorphism between the Automorphism Groups of the Klein Quartic and Fano Plane</a> <i>Bridges Conference Proceedings, Aug. 2021, pp. 327-330.</i> 
+	</p>
+    <p>My <a href="shintaro_hons_dissertation.pdf" target="_self">BSc (Hons) dissertation</a> - the equivalent of a senior thesis in the USA. <i>Asymptotic Curvature of Hypersurfaces
+in Minkowski Space</i>, supervised by Professor Rod Gover.</p>
+    <p>A <a href="shintaro_hons_poster.pdf" target="_self">general-scientific-audience poster</a> based off work from the above dissertation.</p>
+    <h2>Where am I?</h2>
+    <p><b>Joint Mathematics Meeting</b>, January 3-6, 2024, San Francisco.</p>
+    <p><b>Exotic 4-manifolds</b>, December 16-18, 2023, Stanford.</p>
+    <p><b>Gauge Theory and Topology: in Celebration of Peter Kronheimer’s 60th Birthday</b>, July 24-28, 2023. Oxford.</p>
+    <p><b>2023 Simons Collaboration on New Structures in Low-Dimensional Topology Annual Meeting</b>, March 30-31, 2023. Simons Center, New York.</p>
+    <p><b>Topology in Dimension 4.5</b>, October 30-November 4, 2022. BIRS, Canada.</p>
+    <p><b>Nearly Carbon Neutral Geometric Topology</b>, Septmeber 18-25, 2022. Virtual.</p>
+    <p><b>Back home!</b>, September 5-September 22, 2022. New Zealand.</p>
+    <p><b>Topology Students Workshop</b>, July 25-July 29, 2022. Georgia Institute of Technology. This workshop was all about conforming with the status quo, and was not inclusive. If you're thinking of attending in future years, especially if you're marginalised in maths, please be careful! Please email me if you'd like to hear more.</p>
+    <p><b>Summer Trisectors Workshop</b>, June 27-July 1, 2022. Western Washington University.</p>
+    <p><b>New Developments in 4 Dimensions</b>, June 13-17, 2022. University of Victoria, Canada.</p>
+    <p><b>Joint Mathematics Meeting</b>, January 5-8, 2022. Seattle. (Conference cancelled.)</p>
+    <p><b>Tech Topology Conference</b>, December 10-12, 2021. Virtual.</p>
+    <p><b>GT GAPS</b>, October 9, 2021. Virtual.</p>
+    <p><b>Bridges 2021</b>, August 2-3, 2021. Virtual.</p>
+    <p><b>Tech Topology Summer School</b>, July 26-30, 2021. Virtual.</p>
+    <p><b>Nearly Carbon Neutral Geometric Topology</b>, June 14-25, 2021. Virtual.</p>
+    <p><b>Summer Trisectors Workshop</b>, June 1-5, 2021. Virtual.</p>
+    <p><b>Graduate Student Topology and Geometry Conference</b>, April 9-11, 2021. Virtual.</p> 
+    <h2>Invited talks</h2>
+    <p>4. Pseudo-trisections and their diagrams - <i>Stanford University, December 5, 2023.</i> Abstract: We introduce pseudo-trisections of 4-manifolds with boundary and compare and contrast them with relative trisections. We will observe that pseudo-trisections obey many of the useful properties of relative trisections, while having lower complexity. Finally we consider surfaces embedded nicely in pseudo-trisected 4-manifolds and explore their associated diagrams.</p>
+
+    <p>3. <a href="usf.pdf">"Quilts, chains, wooden blocks, and crochet"</a> - <i>University of San Francisco, November 29, 2023.</i> Abstract: Despite great efforts to separate my work life from my personal life, mathematical thought always finds its way into my art practice. Join for an interactive talk about several sculpture projects, and their intentional or unintentional mathematical attributes. (Art provided!) <i>Note that the presentation slides linked here have been compressed to reduce file size.</i> 
+    </p>
+
+    <p>2. Pseudo-trisections and their diagrams - <i>UC Davis, May 18, 2023.</i> Abstract: We introduce pseudo-trisections of 4-manifolds with boundary and compare and contrast them with relative trisections. We will explore examples of surfaces embedded nicely in pseudo-trisected 4-manifolds and demonstrate how to diagrammatically compute several associated invariants, such as "which second homology class of the underlying 4-manifold is represented by the surface?"
+    </p>
+
+    <p>1. <a href="lagrangians_talk.pdf">A Combinatorial Approach to Studying Lagrangians in 4-Manifolds</a> - <i>University of Auckland, September 13, 2022.</i> I gave a talk on ongoing research concerning embedded Lagrangian surfaces (which I am carrying out with Devashi Gulati and Laura Wakelin).</p>
+
+    <h2>Other talks</h2>
+    <p>Property R II - <i>Student Topology Seminar, December 1, 2023.</i>This was the second of two talks aimed at understanding property R, with an emphasis on understanding foliations of knot complements.</p>
+    <p><a href="sumo_monsky.pdf">Cutting squares into triangles</a> - <i>SUMO speaker series, November 9, 2023.</i> I presented to the Stanford undergraduate community. A discussion of equidissections of polygons and a proof of Monsky's theorem.
+    </p>
+    <p>Applications of the Atiyah-Singer index theorem II - <i>Student Topology Seminar, June 2, 2023</i> We explored, in detail, how the Atiyah-Singer index theorem implies the Gauss-Bonnet theorem (and its generalisation to higher dimensions). 
+    </p>
+    <p><a href="sumo2.pdf">Parsing "Tetrahemihexahedron"</a> - <i>SUMO speaker series, January 27, 2023.</i> I presented to the Stanford undergraduate community. A largely interactive introduction to classifications of families of polyhedra and their nomenclature.
+    </p>
+    <p><a href="freedmans_theorem.pdf">Freedman's Theorem II</a> - <i>Student Topology Seminar, November 18, 2022.</i> I gave a talk about the h-cobordism theorem in dimension 4.</p>
+    <p>Pseudo-bridge trisections - <i>Topology in Dimension 4.5, November 1, 2022.</i> I gave a half-hour talk about a generalisation of relative trisections and relative bridge trisections that I have been thinking about.</p>
+    <p><a href="vic_talk.pdf">Genus bounds in CP^2-B^4</a> - <i>New Developments in 4 Dimensions, June 13, 2022.</i> I gave a lightning talk about a strategy for understanding the slice-Bennequin inequality in a compact manifold with non-convex boundary.</p>
+    <p><a href="knotsandmonopoles.pdf">Legendrian Knots and Monopoles II</a> - <i>Student Topology Seminar, May 27, 2022.</i> Part two of a talk about Legendrians knots. Specifically, we summarise Mrowka and Rollin's proof of the slice Bennequin inequality for surfaces in weak fillings of contact manifolds.
+    <p><a href="sumo.pdf">The fold and cut theorem</a> - <i>SUMO speaker series, May 20, 2022.</i> Presented to the Stanford undergraduate community. A largely interactive introduction to the fold and cut theorem - about 70% of the talk consisted of audience members trying to solve folding and cutting tasks. More details are in my talk on the same topic given in 2019.</p>
+    <p><a href="discrete_geo3.pdf">Two results in discrete geometry III</a> - <i>Kiddie Colloquium, May 6, 2022.</i> Part three of the series! This time the two topics (actually closely related) were Borsuk's conjecture and Hadwiger's conjecture. The former asks for a bound on the minimum number of pieces needed in a partition of a shape so that the pieces have smaller diameter than the original shape. The latter asks for a bound on the number of shrunken and translated copies needed to cover a shape. We look at some low dimension cases, and disprove the Borsuk conjecture in high dimensions.</p>
+    <p><a href="areaexam.pdf">Relative bridge trisection diagrams with a view to minimal genus problems</a> - <i>My area exam! March 16, 2022.</i> What is the minimum genus of a surface embedded in a 4-manifold representing a given homology class? Answers to these questions (such as the adjunction inequality) were originally found with gauge theory, but recently Peter Lambert-Cole gave a novel proof of the adjunction inequality using trisections. The gauge theory machinery also applies to manifolds with boundary, provided the boundaries are convex. I'll describe how trisections could enable us to extend some results to the non-convex setting.</p>
+    <p><a href="discrete_geo2.pdf">Two results in discrete geometry II</a> - <i>Kiddie Colloquium, February 11, 2022.</i> This is in some sense part two a talk I gave a few months prior. I first discussed scissors congruence of polytopes: in two dimensions, area is a complete invariant, but in higher dimensions we need more. I then discussed various versions of the art gallery problem, which asks for bounds on the number of guards needed to defend arbitrarily shaped art galleries.</p>
+    <p><a href="mcgfg.pdf">Finite generation of mapping class groups</a> - <i>Student Topology Seminar, January 21, 2022.</i> This is the 2nd installment in a series of talks on mapping class groups of surfaces. I introduce the curve complex and a theorem from group theory about groups being generated by a certain stabiliser-type-object. Together, these give a proof that mapping class groups (of surfaces) are finitely generated (by Dehn twists).</p>
+    <p><a href="KCH_SH.pdf">The isomorphism from knot contact homology to string homology</a> - <i>Student Topology Seminar, November 12, 2021.</i> This is the 5th or 6th installment in a series of talks in the student topology seminar aiming to understand why knot contact homology is a complete knot invariant. I define a type of knot contact homology, recall a construction of string homology, and define a chain map between their chain complexes. The claim is that this chain map inuces an isomorphism on homology.</p>
+    <p><a href="gtgaps.pdf">Chopping up 4-manifolds to study embedded surfaces</a> - <i>GT GAPS, November 9, 2021.</i> I gave an expository talk about trisections and how to make them geometric with a view to proving the adjunction inequality and generalisations.</p> 
+    <p><a href="discrete_geo.pdf">Two results in discrete geometry</a> - <i>Kiddie Colloquium, October 18, 2021.</i> I talked about polyhedra and how a discrete version of the Gauss-Bonnet theorem helps us classify certain families of polyhedra. We then moved to a completely different topic in the second half, concerning equidissections of squares.</p>
+    <p><a href="kleinslides.pdf">Crocheting an isomorphism between the symmetry groups of the Klein quartic and Fano plane</a> - <i>Bridges 2021, August 2-3, 2021.</i> Here are the slides for a 15 minute introduction to the exceptional isomorphism between the automorphism groups of the Klein quartic and Fano plane, and how I used a crocheted model to understand it.</p>
+    <p><a href="https://www.youtube.com/watch?v=lLEh7mxS_Pk&t=1s">Combinatorial proofs and genus bounds</a> - <i>Tech Topology Summer School, July 26-30, 2021.</i> I gave an expository lightning talk describing some topological advances in the 90s due to gauge theory. I then explained some methods to "combinatorialise" these proofs, and why we care.</p>
+    <p><a href="https://thuses.com/algebraic-topology/a-proof-of-a-general-slice-bennequin-inequality/">A proof of a general slice-Bennequin inequality</a> - <i>Stanford student symplectic seminar, June 1, 2021.</i> The slice-Bennequin inequality for knots in the boundary of convex symplectic 4-manifolds was originally proven before we had a good understanding of how such 4-manifolds related to closed symplectic 4-manifolds. Using Eliashberg's result concerning the existence of symplectic caps, I give a much easier proof of the slice-Bennequin inequality than can be found in the literature.</p>
+    <p><a href="adjunction_poster.pdf">A combinatorial proof of the adjunction inequality</a> - <i>Graduate Student Topology and Geometry Conference, April 9-11, 2021.</i> I presented a poster summarising the new proof of the adjunction inequality using "combinatorial" methods as opposed to gauge theory. Specifically, the proof uses trisections to reduce much of the work into three dimensional problems, where algebraic topology and geometric topology provide sufficient machinery.</p>
+    <p><a href="contacthomology.pdf">An application of moduli spaces to Legendrian knots</a> - <i>Stanford student symplectic seminar, March 17, 2021.</i> The theme of the student symplectic seminar for Winter 2021 was "moduli spaces of J-holomorphic curves". During the quarter showed that the moduli space is a finite dimensional manifold, and discussed Gromov compactness and gluing theorems. This was the last talk of the quarter, in which I provided an application of the theory: the preceeding results can be used to define Legendrian contact homology, a (relatively) new invariant of Legendrian submanifolds of contact manifolds.
+    </p>
+    <p><a href="SW_GW.pdf" target="_self">SW = Gr part III</a> - <i>Stanford student symplectic seminar, November 5, 2020.</i> This was the third installment in a series of talks on Taube's result that the Seiberg-Witten and Gromov-Witten invariants for symplectic 4-manifolds are ``basically the same thing". In this talk we first recap the Seiberg-Witten invariants and provide an application. Then we define the Gromov-Witten invariants, and finally provide a formal statement of Taubes' <i>SW=Gr</i> result.</p> 
+    <p><a href="casson.pdf" target="_self">Cash in on the Casson invariant</a> - <i>Secret summer Stanford student symplectic seminar, July 15, 2020.</i> The theme of the student symplectic seminar for Summer 2020 was "invariants in symplectic geometry that don't use difficult analysis or compactness results". In this talk we introduce and discuss the Casson invariant, motivated by its application to the triangulation conjecture for topological manifolds.</p>
+    <p><a href="tqftslides.pdf" target="_self">Introduction to topological quantum field theory</a> - <i>Student mathematical physics, April 29, 2020.</i> I presented an introduction to topolgical quantum field theory. Concretely, I first motivated the definition of a TQFT via path integrals. 1 and 2 dimensional TQFTs were then classified, and finally some applications were discussed. (<a href="tqftslides.pdf" target="_self">Here</a> are some notes to accompany the slides.)</p>
+    <p><a href="physics.pdf" target="_self">Conformal geometry with a view to understanding the cosmos</a> - <i>Student mathematical physics, January 28, 2020.</i> I gave an introduction to general relativity, followed by an introduction to the use of conformal geometry to study some asymptotic questions. In particular, I introduced the conformal tractor calculus.</p>
+    <p><a href="fold.pdf" target="_self">How to cut shapes</a> - <i>Kiddie Colloquium, December 2, 2019.</i> I gave an interactive seminar on the <a href="http://erikdemaine.org/foldcut/">fold and cut problem</a>, in which the audience joined in and cut shapes as we developed two algorithms to solve the problem (Originally by Erik Demaine et al.)</p>
+    <p><a href="surfacericci.pdf" target="_self">Using (a little bit of) entropy to classify surface geometries</a> - <i>Student analysis seminar, October 25, 2019.</i> The theme of the student analysis seminar for Fall 2019 was entropy. I gave a proof outline of the uniformisation theorem for surfaces (using Ricci flow). Uniformising genus-0 surfaces requires a notion of curvature entropy.</p>
+    <p><a href="chern.pdf" target="_self">The first Chern number</a> - <i>Stanford student symplectic seminar, October 4, 2019.</i> The theme of the student symplectic seminar for Fall 2019 was the Riemann-Roch theorem. This talk introduced the first Chern number, an essential ingredient in the statement of the aforementioned theorem.</p>
+	<h2>Lecture notes</h2>
+	<p><a href="283Ab.pdf" target="_self">MATH 283 A (Heegaard Floer homology)</a> - <i>Topics in Topology, Fall 2020, taught by Ciprian Manolescu.</i> An introduction to Heegaard Floer homology. The first half of the course was dedicated to defining Heegaard Floer homology in dimensions 3 and 4. The next quarter of the course emphasised the combinatoral nature of Heegaard Floer homology as we worked through applications. Some notable results in chronological order are: the proof that "hat" Heegaard Floer homology (with mod 2 coefficients) has a combinatorial algorithm, that Heegaard Floer homology detects the Thurston norm, and that the integral homology cobordism group has a Z^infty summand. In the final quarter we learned about knot Floer homology, proved that it was also combinatorial, and studied applications to the knot concordance group.</p>
+  <p><a href="283A.pdf" target="_self">MATH 283 A (4-manifold topology)</a> - <i>Topics in topology, Spring 2020, taught by Ciprian Manolescu.</i> An introduction to the topology of 4-manifolds. The course focused on four main topics. First we studied the classification of simply connected topological 4-manifolds based on Freedman and Donaldson's work. Next we studied visual representations of smooth 3 and 4-manifolds, focusing primarily on Kirby diagrams. The next topic was the main focus of the class: Seiberg-Witten gauge theory. We used it to prove the existence of exotic R⁴s, Donaldson's diagonalisability theorem, and the Thom and Milnor conjectures. Finally we developed Khovanov homology, and in particular Rasmussen's s-invariant, to give combinatorial proofs of some results originally obtained via gauge theory.</p>
+	<p><a href="282B.pdf" target="_self">MATH 282 B</a> - <i>Homotopy theory, Winter 2020, taught by Chris Ohrt.</i> A general introduction to homotopy theory. Main topics homotopy groups of spheres, fibre sequences, cohomology and obstruction theory, and spectral sequences. The last topic (model categories) was cut short due to the COVID 19 outbreak.</p>
+	<p><a href="257A.pdf" target="_self">MATH 257 A</a> - <i>Symplectic geometry, Fall 2019, taught by Umut Varolgunes.</i> A general introduction to symplectic geometry. Main topics include the interplay between complex and symplectic geometry, Lagrangian submanifolds, Hamiltonian dynamics, and local and global invariants.</p>
+	<h2>Other exposition</h2>
+	<p><a href="sbenne.pdf" target="_self">Slice Bennequin inequality.</a> The Bennequin inequality relates the classical "geometric" knot invariants of transverse and Legendrian knots (in contact 3-manifolds) to "topology" (the maximum Euler characteristic of a Seifert surface of the knots). A remarkable fact is that the inequality remains true when we move from Seifert surfaces to slice surfaces. These notes contain the historic contact-geometric background, describe how transverse links relate to braids, and provides a proof of the <i>slice Bennequin inequality</i> which is stated in terms of braids (using purely combinatorial methods - Khovanov homology). A large chunk of the notes is dedicated to defining and developing Khovanov homology and Rasmussen's <i>s-invariant</i>.
+<p><a href="algtop.pdf" target="_self">Algebraic topology.</a> Exploration of several classical topics from algebraic topology, assuming a knowledge of the first two chapters of Hatcher. We start with fibrations and fibre bundles, and introduce <i>classifying spaces</i> to try to understand bundles over a space. Next we introduce <i>characteristic classes</i>, which are usually used to classify vector bundles in particular. Another classification of vector bundles uses <i>K-theory</i>, which we study in depth with an emphasis on Bott periodicity and its applications. We also find that K-theory defines an <i>extraordinary cohomology theory</i>. Another important example of an extraordinary cohomology theory is <i>cobordism theory</i>, which is the final standalone topic. In the last two chapters we introduce concepts and tools that help us better understand K-theory and cobordism theory (or more generally any extraordinary cohomology theory), namely equivariant cohomology and the Atiyah-Hirzebruch spectral sequence. These notes were compiled during Summer 2020 with guidance from Ciprian Manolescu.</p>  
+  <p><a href="knot.pdf" target="_self">Knot theory.</a> Introductory knot theory notes, largely following Lickorish. Knot polynomials are given the most emphasis, but many other invariants are described. Some solutions to exercises are also given here. These notes were compiled during a reading course with Ciprian Manolescu in Spring 2020.</p>
+  <p><a href="homosphere.pdf" target="_self">Homology 3-spheres.</a> Introduction to the topology of homology 3-spheres, largely following Saveliev. The reader is expected to be familiar with some knot theory - any low dimensional topology concepts that are not explained in these notes should be explained in the knot theory notes above. The main topics of these notes are the Rokhlin invariant, the triangulation conjecture, and the Casson invariant. These notes were compiled during a reading course with Ciprian Manolescu in Spring 2020.</p>
+	<p><a href="morse.pdf" target="_self">Morse theory.</a> Introductory Morse theory notes, largely following Audin and Damian. The focus is on developing Morse homology and exploring some applications (such as the Morse inequalities). Some solutions to exercises are also given here. At the end of these notes we give a proof outline of the h-cobordism theorem (and prove the generalised Poincaré conjecture) following Milnor's lecture notes. Finally we explore the status of the generalised Poincaré conjecture and h-cobordism theorem (for each dimension) in several categories of manifolds.</p>
+	<p><a href="nullstellensatz.pdf" target="_self">Hilbert's Nullstellensatz.</a> This document contains results culminating in a proof of Hilbert's Nullstellensatz. The notes are mostly self-contained, relying only on basic algebra (integral domains, prime ideals, modules etc). However, some knowledge of localisations is assumed when developing preliminary dimension theory results.</p>
+  <p><a href="homotopy.pdf" target="_self">A non-visual proof that higher homotopy groups are abelian.</a> This document is a short self-contained proof that higher homotopy groups are abelian using only algebra. By using the Eckmann-Hilton argument, we avoid having to construct any homotopies.</p>
+  <p><a href="uncertainty.pdf" target="_self">The uncertainty principal.</a> This document is a short self-contained proof of the Heisenberg uncertainty principal (in a general mathematical setting). It will be easier to follow given some familiarity with Fourier transforms.</p>
+</div>
+
+ <div class="minifooter">
+  <a target="_blank" title="follow me on Twitter" href="https://www.twitter.com/FushidaHardy"><img alt="follow me on twitter" src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter40x40.png" border=0 hspace="10"></a>
+  <a target="_blank" title="find me on StackExchange" href="https://math.stackexchange.com/users/357206/harambe?tab=profile"><img alt="find me on StackExchange" src="mse.png" border=0 hspace="10"></a>
+  <a target="_blank" title="follow me on Instagram" href="https://www.instagram.com/fishintaro/"><img alt="follow me on Instagram" src="insta.png" border=0 hspace="10"></a>
+</div> 
+<div class="footer"><p>Updated 7 Dec 2023</p></div>
+
+</body>
+</html>
