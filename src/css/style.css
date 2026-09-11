@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 14px;
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url('../../img/green.png'); 
+}
+
+html[data-useragent*='Mac OS X'] {
+  font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
+}
+
+html[data-useragent*='Linux'] {
+  font-family: "Roboto", sans-serif; 
+}
+
+html[data-useragent*='Win64'] {
+  font-family: "Segoe UI", sans-serif;
+}
+
+html[data-useragent*='iPhone'] {
+  font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
+}
+
+body {
+}
+
+main {
+  background-color: #e6e6e6;
+  padding: 15px;
+  width: calc(100% - 8px); 
+  margin: 4px auto;
+  
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #666666;
+  border-left: 1px solid #666666;
+  border-right: 1px solid #666666;
+  
+  box-shadow: inset 0px 0px 0px 0px #FFFFFF;
+}
+
+h1 { font-family: sans-serif; text-align: center; font-size: x-large; font-weight: bold }
+h2 { font-family: sans-serif; text-align: center; font-size: large; font-weight: bold }
+h3 { font-family: sans-serif; text-align: left; font-size: large; font-weight: bold; margin-bottom: 10px; }
+h4 { font-family: sans-serif; text-align: left; font-size: medium; font-weight: bold; margin-bottom: 10px;  }
+
+p { margin-top: 10px; margin-bottom: 10px; text-align: justify;}
+
+.titlebar {
+  display: flex;
+  
+  box-sizing: border-box;
+  padding: 8px;
+  width: calc(100% - 8px); 
+  margin: 0px auto;
+
+  background-color: #E6E6E6;
+
+  border-top: none;
+  border-bottom: 1px solid #666666;
+  border-left: 1px solid #666666;
+  border-right: 1px solid #666666;
+  
+  box-shadow: inset 0px 0px 0px 0px #FFFFFF;
+}
+
+.footer {
+  font-size: 14px;
+
+  box-sizing: border-box;
+  padding: 8px;
+  width: calc(100% - 8px); 
+  margin: 4px auto;
+
+  background-color: #E6E6E6;
+
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #666666;
+  border-left: 1px solid #666666;
+  border-right: 1px solid #666666;
+
+  box-shadow: inset 0px 0px 0px 0px #FFFFFF;
+}
+
+.image-text-flex {
+  display: flex;
+  align-items: stretch;
+  gap: 20px; 
+  background-color: #e6e6e6;
+  padding: 15px;
+  width: calc(100% - 8px); 
+  margin: 4px auto;
+  
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #666666;
+  border-left: 1px solid #666666;
+  border-right: 1px solid #666666;
+  
+  box-shadow: inset 0px 0px 0px 0px #FFFFFF;
+}
+
+.image-flex {
+  width: 40%; 
+  align-self: flex-start;
+  max-width: 520px;
+  height: auto; 
+  flex-shrink: 1; 
+  display: block;
+}
+
+.image-flex img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.text-flex {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.push-to-bottom {
+  margin-top: auto;
+}
+.push-to-bottom::before {
+  content: "";
+  display: block;
+  height: 20px;
+}
+
+.push-to-right {
+  margin-left: auto;
+}
+
+@media (max-width: 768px) {
+  .image-text-flex {
+    flex-direction: column;
+  }
+  .image-flex {
+    width: 100%; 
+    align-self: center;
+    max-width: 520px; 
+  }
+  .push-to-bottom {
+    margin-top: 20px;
+  }
+}
+
+a.button_href, a.button_href:link, a.button_href:visited, a.button_href:hover, a.button_href:active {
+            color: black !important;
+            text-decoration: none !important;   
+            cursor: inherit !important;         
+            outline: none !important; 
+}
+
+  .kgsbutton {
+    font-size: 14px;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    outline: none;
+  
+    padding: 3px 10px 3px;
+    
+    border-radius: 100px; 
+    box-sizing: border-box;
+    box-shadow: 0 0 0 1px #666666;
+
+    background: 
+      linear-gradient(to bottom, rgba(255,255,255,0.7) 0%, rgba(255,255,255,0) 55%, rgba(0,0,0,0.12) 100%),
+      linear-gradient(to bottom, #ffffff 0%, #e6e6e6 45%, #cccccc 100%);
+
+    filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.15));
+  }
+
+  .kgsbutton:hover {
+    color: blue; 
+  }
+  
+  .kgsbutton:visited:hover {
+    color: purple; 
+  }
+
+  .kgsbutton:active {
+    transform: translateY(1px);
+    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.1));
+    background: 
+      linear-gradient(to bottom, rgba(0,0,0,0.08) 0%, rgba(255,255,255,0.2) 100%),
+      linear-gradient(to bottom, #dcdcdc 0%, #e6e6e6 100%);
+  }
+  
+  ol {
+  padding-left: 1.5rem;
+  margin-left: 0;
+ }
+ 
+ ol li:not(:last-child) {
+    margin-bottom: 8px;
+}

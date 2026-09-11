@@ -1,0 +1,122 @@
+<style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    .navbox {
+      background-color: #E6E6E6;
+      font-size: 14px;
+      width: 100%;
+      /*max-width: 1200px;*/
+      margin: 0 auto;
+      position: relative;
+    }
+    .navtab {
+      display: flex;
+      flex-wrap: wrap-reverse; 
+      list-style: none;
+      padding: 6px 4px 0px; /* Base structural padding */
+      column-gap: 0px;
+      background-color: #2e7d32; 
+      background-image: url('../../img/green.png'); 
+      width: 100%;
+    }
+    .navtab.has-extra-padding {
+      padding-bottom: 8px; 
+    }
+
+    .navtab li {
+      flex: 0 1 auto; 
+      text-align: center;
+      position: relative;
+      min-width: max-content; 
+    }
+
+    .navtab.is-wrapped li {
+      flex: 1 1 0%; 
+      margin-bottom: -8px; 
+    }
+
+    .navtab.is-wrapped li.top-layer-tab {
+      flex: 0 1 auto;
+    }
+    
+    .navtab.is-wrapped li .tab {
+      padding-bottom: 12px;
+    }
+    
+    .navtab.is-wrapped li.bottom-layer-tab .tab {
+      padding-bottom: 4px;
+    }
+
+    .tab {
+      display: block; 
+      position: relative;
+      font-weight: normal;
+      text-decoration: none;
+      padding: 4px 15px 4px; 
+      color: #000000;
+      clip-path: border-box polygon(0 6.00px, 6.00px 0, 100% 0, 100% 100%, 0 100%);
+    }
+
+    .tab:hover {
+      color: blue; 
+    }
+    
+    .tab:visited:hover {
+      color: purple; 
+    }
+
+    .activetab {
+      background: #E6E6E6;
+    }
+
+    .inactivetab {
+      background: #999999;
+    }
+
+    .activetab:before {
+      content: "";
+      position: absolute;
+      top: 1px;
+      right: -2px;
+      bottom: -2px;
+      left: 1px;
+      background: #FFFFFF;
+      clip-path: polygon(0 6.00px,6.00px 0,100% 0,100% 100%,0 100%,0 6.00px,1px  calc(6.00px + 0.41px),1px calc(100% - 1px),calc(100% - 1px) calc(100% - 1px),calc(100% - 1px) 1px,calc(6.00px + 0.41px) 1px,1px calc(6.00px + 0.41px));
+    }
+
+    .activetab:after {
+      content: "";
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: -2px;
+      left: 0px;
+      background: #666666;
+      clip-path: polygon(0 6.00px,6.00px 0,100% 0,100% 100%,0 100%,0 6.00px,1px  calc(6.00px + 0.41px),1px calc(100% - 1px),calc(100% - 1px) calc(100% - 1px),calc(100% - 1px) 1px,calc(6.00px + 0.41px) 1px,1px calc(6.00px + 0.41px));
+    }
+
+    .inactivetab:before {
+      content: "";
+      position: absolute;
+      top: 1px;
+      right: -2px;
+      bottom: -2px;
+      left: 1px;
+      background: #CCCCCC;
+      clip-path: polygon(0 6.00px,6.00px 0,100% 0,100% 100%,0 100%,0 6.00px,1px  calc(6.00px + 0.41px),1px calc(100% - 1px),calc(100% - 1px) calc(100% - 1px),calc(100% - 1px) 1px,calc(6.00px + 0.41px) 1px,1px calc(6.00px + 0.41px));
+    }
+
+    .inactivetab:after {
+      content: "";
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: -2px;
+      left: 0px;
+      background: #666666;
+      clip-path: polygon(0 6.00px,6.00px 0,100% 0,100% 100%,0 100%,0 6.00px,1px  calc(6.00px + 0.41px),1px calc(100% - 1px),calc(100% - 1px) calc(100% - 1px),calc(100% - 1px) 1px,calc(6.00px + 0.41px) 1px,1px calc(6.00px + 0.41px));
+    }
+  </style>

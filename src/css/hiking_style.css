@@ -1,0 +1,46 @@
+.hike-flex {   
+  display: flex;   
+  align-items: stretch;   
+  gap: 20px;   
+  background-color: #e6e6e6;    
+  padding: 15px;   
+  width: calc(100% - 8px);    
+  margin: 4px auto;      
+  border: 1px solid #666666;      
+  box-shadow: inset 0px 0px 0px 0px #FFFFFF;
+}  
+
+.hike-img-grid {   
+  width: 40%;    
+  align-self: flex-start;   
+  max-width: 520px; 
+  flex-shrink: 1;    
+  
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  grid-template-rows: repeat(2, 1fr);    
+  gap: 10px;                             
+}  
+
+.hike-img-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hike-text-flex {   
+  flex: 1;  
+  display: flex;   
+  flex-direction: column; 
+}
+
+@media (max-width: 850px) {
+  .hike-flex {
+    flex-direction: column;
+  }
+  .hike-img-grid {
+    width: 100%; 
+    align-self: center;
+    max-width: 520px;
+  }
+}
